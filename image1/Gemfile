@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+
+# Sinatra and extensions
+gem 'sinatra'
+
+#Http
+gem 'faraday'
+# Server
+gem 'puma'
+
+gem 'net-http-persistent'
+

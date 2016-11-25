@@ -1,0 +1,12 @@
+# A sample Gemfile
+source "https://rubygems.org"
+
+# Sinatra and extensions
+gem 'sinatra'
+
+# Server
+gem 'puma'
+
+# Helpers
+
+
